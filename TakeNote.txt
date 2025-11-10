@@ -1,0 +1,13 @@
+*** 
+JWT(Json web tokens) structure
+. ENcoded with Base64
+. Header
+. PayLoad
+. Signature
+
+*** 
+Identity Server 4: 
+. Open source framework
+. OpenId Connect and OAuth2 implementation
+. Centralizde security system
+. Features - prptect your resource

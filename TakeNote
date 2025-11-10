@@ -1,6 +1,0 @@
-*** 
-JWT(Json web tokens) structure
-. ENcoded with Base64
-. Header
-. PayLoad
-. Signature
